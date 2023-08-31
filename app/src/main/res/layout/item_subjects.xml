@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:background="@drawable/background"
+        android:background="#acf308"
         android:text="subjects"
         android:textAlignment="center"
         android:layout_margin="16dp"

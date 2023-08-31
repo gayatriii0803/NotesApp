@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical">
-
     <TextView
         android:id="@+id/semesterTextView"
         android:layout_width="match_parent"
@@ -13,7 +12,7 @@
         android:layout_margin="16dp"
         android:text="Sem 1"
         android:textStyle="bold"
-        android:background="@drawable/background"
+        android:background="#acf308"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="24sp" />

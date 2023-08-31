@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:text="Gayatri"
-        android:background="@drawable/background"
+        android:background="#acf308"
         android:textStyle="bold"
         android:layout_margin="16dp"
         android:textAlignment="center"
